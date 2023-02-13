@@ -1,0 +1,71 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@ateszki 
+ateszki
+/
+DataModels
+Public
+Fork your own copy of ateszki/DataModels
+Code
+Issues
+Pull requests
+4
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+DataModels/.gitignore
+@runfaj
+runfaj add mst example
+Latest commit 293068c on Oct 19, 2022
+ History
+ 2 contributors
+@runfaj@ateszki
+23 lines (18 sloc)  310 Bytes
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+DataModels/.gitignore at mst-example-with-proxy · ateszki/DataModels
