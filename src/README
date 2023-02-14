@@ -1,0 +1,16 @@
+# AJV PLAYGROUND
+
+## schemas, validators and objects
+Add shcemas to src/schemas.js
+Add validators to src/validators.js
+Add objects to srch/objects.js
+
+## command
+`run yarn validate` 
+will run with default values
+
+`yarn validate -o <objectName> -v <validatorName>`
+will use the specified object and validator
+
+example
+`yarn validate -o renameObject -v renameValidator`
